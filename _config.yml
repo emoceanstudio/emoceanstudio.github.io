@@ -41,7 +41,7 @@ plugins:
 
 author:
   name   : "Emocean Studio"
-  avatar : "assets/images/QuielDev.jpg"
+  avatar : "assets/images/Logo Avatar Emocean Studio.png"
   bio    : "Solo Game Dev | Powered by Godot"
   links:
   # - label: "Steam"
@@ -88,16 +88,16 @@ defaults:
 
 my_games:
   - image_path: "/assets/images/capa-jogo-1.jpg"
-    alt: "Nome do Jogo 1"
-    title: "Nome do Jogo 1"
-    excerpt: "Uma frase curta e épica sobre o jogo."
+    alt: "Nome do Jogo"
+    title: "Nome do Jogo"
+    excerpt: "Breve descrição do jogo (gênero e premissa)."
     url: "https://steampowered.com"
     btn_label: "View on Steam"
-    btn_class: "btn--info"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/capa-jogo-2.jpg"
     alt: "Nome do Jogo 2"
     title: "Nome do Jogo 2"
-    excerpt: "Outra descrição curta aqui."
+    excerpt: "Este jogo está disponível no Itch.io."
     url: "https://itch.io"
     btn_label: "Play on Itch.io"
     btn_class: "btn--info"

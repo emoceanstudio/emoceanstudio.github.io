@@ -13,15 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Emocean Studio
+email: "emoceanstudio+business@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  "Solo Game Dev: Ezequiel S.S. | Godot Engine"
+github_username: @emoceanstudio
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
@@ -29,9 +26,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo
 
 include:
   - _pages
@@ -60,7 +57,7 @@ plugins:
 author:
   name   : "Emocean Studio"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Solo Game Dev: Ezequiel S.S. | Godot Engine"
   links:
     - label: "X (Twitter)"
       icon: "fab fa-fw fa-twitter-square"
@@ -68,24 +65,27 @@ author:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/emoceanstudio.bsky.social"
-    - label: "Itch.io"
-      icon: "fab fa-fw fa-itch-io"
-      url: "https://emoceanstudio.itch.io/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@emoceanstudio"
+    - label: "Itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://emoceanstudio.itch.io/"
+    - label: "Newgrounds"
+      icon: "fas fa-fw fa-gamepad"
+      url: "https://emoceanstudio.newgrounds.com/"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "X (Twitter)"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://x.com/emoceanstudio"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/emoceanstudio.bsky.social"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@emoceanstudio"
 
 defaults:
   # _posts

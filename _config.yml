@@ -6,6 +6,7 @@ github_username:
 minimal_mistakes_skin: aqua
 locale: "en-US"
 search: true
+include: [".well-known"]
 
 # Build settings
 markdown: kramdown
@@ -17,7 +18,6 @@ paginate_path: /page:num/
 timezone: America/Sao_Paulo
 
 include:
-  - [".well-known"]
   - _pages
 
 # Exclude from processing.

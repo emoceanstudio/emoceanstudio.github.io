@@ -40,7 +40,7 @@ plugins:
 
 author:
   name   : "Emocean Studio"
-  avatar : "/assets/images/Logo Avatar Emocean Studio UV SF.png"
+  avatar : "assets/images/Logo Avatar Emocean Studio.png"
   bio    : "Solo Game Dev | Powered by Godot"
   links:
   # - label: "Steam"

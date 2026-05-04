@@ -17,7 +17,7 @@ title: Emocean Studio
 email: "emoceanstudio+business@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   "Solo Game Dev: Ezequiel S.S. | Godot Engine"
-github_username: @emoceanstudio
+github_username: "@emoceanstudio"
 minimal_mistakes_skin: aqua
 search: true
 

@@ -6,7 +6,6 @@ github_username:
 minimal_mistakes_skin: aqua
 locale: "en-US"
 search: true
-include: [".well-known"]
 
 # Build settings
 markdown: kramdown

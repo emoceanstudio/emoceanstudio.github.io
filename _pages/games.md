@@ -1,12 +1,11 @@
 ---
-layout: grid
-title: "My games"
+layout: splash
+title: "Games"
 permalink: /games/
-author_profile: true
+header:
+  overlay_color: "#10022a" #
 ---
 
-# My "children" at Godot:
+# Game Library
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include feature_row id="my_games" %}

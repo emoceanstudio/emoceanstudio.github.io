@@ -87,17 +87,18 @@ defaults:
       author_profile: true
 
 my_games:
-  - image_path: "/assets/images/capa-jogo-1.jpg"
-    alt: "Nome do Jogo"
-    title: "Nome do Jogo"
-    excerpt: "Breve descrição do jogo (gênero e premissa)."
-    url: "https://steampowered.com"
-    btn_label: "View on Steam"
-    btn_class: "btn--primary"
-  - image_path: "/assets/images/capa-jogo-2.jpg"
-    alt: "Nome do Jogo 2"
-    title: "Nome do Jogo 2"
-    excerpt: "Este jogo está disponível no Itch.io."
-    url: "https://itch.io"
+  - image_path: "/assets/images/capa-jogo-gratis.jpg"
+    alt: "Nome do Jogo Grátis"
+    title: "Nome do Jogo Grátis"
+    excerpt: "A short and cool description of your free game."
+    url: "https://itch.io" # Link principal (opcional)
     btn_label: "Play on Itch.io"
-    btn_class: "btn--info"
+    btn_class: "btn--primary"
+    # Aqui entra o segundo botão para Newgrounds:
+    buttons:
+      - label: "Itch.io"
+        url: "https://itch.io"
+        btn_class: "btn--primary"
+      - label: "Newgrounds"
+        url: "https://newgrounds.com"
+        btn_class: "btn--warning" # amarelo combina com Newgrounds!

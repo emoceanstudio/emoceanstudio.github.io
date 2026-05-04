@@ -1,8 +1,6 @@
 title: Emocean Studio
-email: 
 description: >- # this means to ignore newlines until "baseurl:"
   "Solo Game Dev: Ezequiel S.S."
-github_username:
 minimal_mistakes_skin: aqua
 locale: "en-US"
 search: true
@@ -43,17 +41,11 @@ plugins:
 author:
   name   : "Emocean Studio"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Solo Game Dev: Ezequiel S.S."
+  bio    : "Solo Game Dev | Powered by Godot"
   links:
-    - label: "X (Twitter)"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/emoceanstudio"
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/emoceanstudio.github.io"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@emoceanstudio"
+  # - label: "Steam"
+    # icon: "fab fa-fw fa-steam"
+    # url: "https://steampowered.com"
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://emoceanstudio.itch.io/"

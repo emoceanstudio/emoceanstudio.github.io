@@ -85,3 +85,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+my_games:
+  - image_path: "/assets/images/capa-jogo-1.jpg"
+    alt: "Nome do Jogo 1"
+    title: "Nome do Jogo 1"
+    excerpt: "Uma frase curta e épica sobre o jogo."
+    url: "https://steampowered.com"
+    btn_label: "View on Steam"
+    btn_class: "btn--info"
+  - image_path: "/assets/images/capa-jogo-2.jpg"
+    alt: "Nome do Jogo 2"
+    title: "Nome do Jogo 2"
+    excerpt: "Outra descrição curta aqui."
+    url: "https://itch.io"
+    btn_label: "Play on Itch.io"
+    btn_class: "btn--info"

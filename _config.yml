@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: "aqua"
 favicon: "assets/images/Logo Avatar Emocean Studio UV SF.png"
 locale: "en-US"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown

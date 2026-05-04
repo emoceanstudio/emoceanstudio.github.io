@@ -1,13 +1,25 @@
 ---
 layout: single
-title: "About the Studio"
+title: "About / Sobre"
 permalink: /about/
-author_profile: true
-header:
-  overlay_image: /assets/images/
 ---
-English:
-Emocean Studio is an indie, solo studio created by Ezequiel. My goal is to create good and memorable games. As the studio's name suggests, I hope to flood your hearts with an ocean of emotions!
 
-Português Brasil: 
-Emocean Studio é um estúdio indie e solo criado por Ezequiel. Meu objetivo é criar jogos bons e memoráveis. Como o nome do estudio sugere, espero conseguir inundar seus corações com um oceano de emoções!
+### us English
+Hello! I'm Ezequiel, a solo indie developer here in Brazil. My goal is to create games that flood your hearts with an Ocean of Emotions!
+
+---
+
+### br Português 
+Olá! Sou Ezequiel, um desenvolvedor indie solo aqui do Brasil. Meu objetivo é criar jogos que inundem seus corações com um Oceano de Emoções! 
+
+---
+
+### 🛠️ Special Thanks (Tools I Use)
+I am deeply grateful to the entire open-source community. These are the tools I use to create my projects...
+
+* [Godot Engine](https://godotengine.org/) - The heart of development.
+* [Pixelorama](https://pixelorama.org/) - The beauty and creativity in pixel art.
+* [LMMS](https://lmms.io/) - The symphony orchestra.
+* [Blender](https://www.blender.org/) - Fantastic 3D modeling
+
+Thank you to the developers behind these projects!

@@ -2,6 +2,7 @@ title: Emocean Studio
 description: >- # this means to ignore newlines until "baseurl:"
   "Solo Game Dev: Ezequiel S.S."
 minimal_mistakes_skin: "aqua"
+favicon: "assets/images/Logo Avatar Emocean Studio UV SF.png"
 locale: "en-US"
 search: true
 

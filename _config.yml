@@ -43,7 +43,7 @@ plugins:
 author:
   name   : "Emocean Studio"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Solo Game Dev: Ezequiel S.S. | Godot Engine"
+  bio    : "Solo Game Dev: Ezequiel S.S."
   links:
     - label: "X (Twitter)"
       icon: "fab fa-fw fa-twitter-square"

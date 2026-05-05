@@ -53,6 +53,9 @@ author:
     - label: "Newgrounds"
       icon: "fas fa-fw fa-gamepad"
       url: "https://emoceanstudio.newgrounds.com/"
+    - label: "Game Jolt"
+      icon: "fab fa-fw fa-game-jolt"
+      url: "https://gamejolt.com/@emoceanstudio"
 
 footer:
   links:

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Games"
+title: "My Babies"
 permalink: /games/
 header:
   overlay_color: "#10022a" #

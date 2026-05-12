@@ -89,9 +89,14 @@ defaults:
       layout: single
       author_profile: true
 
- my_games:
+ ---
+my_games:
   - image_path: "/assets/images/capa-jogo-gratis.jpg"
     alt: "Nome do Jogo Grátis"
     title: "Nome do Jogo Grátis"
-    # Colocamos as opções direto aqui dentro do excerpt:
-    excerpt: "A short and cool description of your free game.<br><br>👉 **Jogue agora em:** [Itch.io](https://itch.io) | [Newgrounds](https://newgrounds.com) | [Game Jolt](https://gamejolt.com)"
+    excerpt: 'A short and cool description of your free game.<br><br>👉 **Jogue em:** [Itch.io](https://itch.io) \| [Newgrounds](https://newgrounds.com) \| [Game Jolt](https://gamejolt.com)'
+ ---
+
+Aqui estão os meus projetos principais:
+
+{% include feature_row id="my_games" %}

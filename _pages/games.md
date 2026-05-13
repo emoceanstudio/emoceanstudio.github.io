@@ -7,8 +7,8 @@ header:
 
 my_games:
   - image_path: "/assets/images/capa-jogo-gratis.jpg"
-    alt: "Game 1"
-    title: "Game 1"
+    alt: "White Collar Wings"
+    title: "White Collar Wings"
     excerpt: 'A short and cool description of free game.<br><br>👉 **Play on:** [Itch.io](https://itch.io) \| [Newgrounds](https://newgrounds.com) \| [Game Jolt](https://gamejolt.com)'
 ---
 

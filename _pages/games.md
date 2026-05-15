@@ -9,7 +9,7 @@ my_games:
   - image_path: "/assets/images/capa-jogo-gratis.jpg"
     alt: "White Collar Wings"
     title: "White Collar Wings"
-    excerpt: 'A short and cool description of free game.<br><br>👉 **Play on:** [Itch.io](https://itch.io) \| [Newgrounds](https://newgrounds.com) \| [Game Jolt](https://gamejolt.com)'
+    excerpt: 'A short and cool description of free game.<br><br>👉 **Play on:** [Steam]() \| [Itch.io]() \| [Newgrounds]()'
 ---
 
 {% include feature_row id="my_games" %}

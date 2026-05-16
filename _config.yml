@@ -41,7 +41,7 @@ plugins:
 
 author:
   name   : "Ezequiel S.S."
-  avatar : "assets/images/QuielDev"
+  avatar : "assets/images/QuielDev.jpg"
   bio    : "Solo Game Dev"
   links:
     - label: "Steam"

@@ -40,9 +40,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Emocean Studio"
-  avatar : "assets/images/Logo Avatar Emocean Studio.png"
-  bio    : "Solo Game Dev | Powered by Godot"
+  name   : "Ezequiel S.S."
+  avatar : "assets/images/QuielDev"
+  bio    : "Solo Game Dev"
   links:
     - label: "Steam"
       icon: "fab fa-fw fa-steam"

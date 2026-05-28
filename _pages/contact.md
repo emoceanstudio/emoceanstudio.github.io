@@ -14,7 +14,7 @@ For direct contact, please use the appropriate address below:
 *   **Support & Feedback:** [emoceanstudio+support@gmail.com](mailto:emoceanstudio+support@gmail.com)
 
 ### 📢 Social Media
-These are the only official social media accounts.:
+These are the only official social media accounts:
 *   [X (Twitter)](https://x.com/emoceanstudio) - For daily updates and devlogs.
 *   [YouTube](https://www.youtube.com/@emoceanstudio) - Trailers and news.
 *   [Bluesky](https://bsky.app/profile/emoceanstudio.github.io) - For arts in general.

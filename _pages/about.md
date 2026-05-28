@@ -23,9 +23,9 @@ I am deeply grateful to the entire open-source community. These are the tools I 
 * [LMMS](https://lmms.io/) - The symphony orchestra.
 * [Audacity](https://www.audacityteam.org/) - The surgeon of sound effects. 
 * [Kdenlive](https://kdenlive.org/)   [VLC](https://www.videolan.org/)   [OBS](https://obsproject.com/) - The holy trinity of audiovisual media.
-* [7zFM](https://www.7-zip.org/download.html) - Unzipping from .zip and .rar files.
+* [7zFM](https://www.7-zip.org/download.html) - Opening all those .zip and .rar packages. 
 * [Scribus](https://www.scribus.net/) - Feeling like a professional magazine editor. 
 * [Firefox](https://www.firefox.com/) - Wait, isn't that a fox?! Best browser.
-* [Git](https://git-scm.com/install/windows)   [Github](https://desktop.github.com/download/) - My personal time machine. 
+* [Git](https://git-scm.com/install/windows)  [Github](https://desktop.github.com/download/) - My personal time machine. 
 
 Thank you to the developers behind these projects!

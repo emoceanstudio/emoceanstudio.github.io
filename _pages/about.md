@@ -1,16 +1,10 @@
 ---
 layout: single
-title: "About / Sobre"
+title: "About"
 permalink: /about/
 ---
 
-### us English
-Hello, I'm Ezequiel, a solo developer here in Brazil. My goal is to create fun games that fill your hearts like an Ocean of Emotions!
-
----
-
-### br Português 
-Olá, sou Ezequiel, um desenvolvedor solo aqui do brasil. Meu objetivo é criar jogos divertidos e que inundem seus corações como um Oceano de Emoções! 
+Hello, I'm Ezequiel, a solo developer here in Brazil. My goal is to create games that flood your hearts like an Ocean of Emotions!
 
 ---
 

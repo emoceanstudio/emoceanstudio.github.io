@@ -9,12 +9,7 @@ my_games:
   - image_path: "/assets/images/jogo1.jpg"
     alt: "Nome do Jogo 1"
     title: "Nome do Jogo 1"
-    excerpt: "Breve descrição do jogo.<br><br>👉 **Jogue:** [Steam]() | [Itch.io]()"
-
-  - image_path: "/assets/images/jogo2.jpg"
-    alt: "Nome do Jogo 2"
-    title: "Nome do Jogo 2"
-    excerpt: "Breve descrição do segundo jogo.<br><br>👉 **Jogue:** [Steam]() | [Itch.io]()"
+    excerpt: "Breve descrição do jogo.<br><br>👉 **Play on:** [Steam]() | [Itch.io]()"
 ---
 
 {% include feature_row id="my_games" type="grid" columns=3 %}

@@ -19,7 +19,7 @@ I am deeply grateful to the entire open-source community. These are the tools I 
 * [Kdenlive](https://kdenlive.org/)  [VLC](https://www.videolan.org/)  [OBS](https://obsproject.com/) - The holy trinity of audiovisual media. 🎬
 * [7zFM](https://www.7-zip.org/download.html) - Opening all those .zip and .rar packages. 📦
 * [Scribus](https://www.scribus.net/) - Feeling like a professional magazine editor. 📝
-* [Firefox](https://www.firefox.com/) - Wait, isn't that a fox?!. 🦊
+* [Firefox](https://www.firefox.com/) - Wait, isn't that a fox?! 🦊
 * [Git](https://git-scm.com/install/windows) & [Github](https://desktop.github.com/download/) - My personal time machine. ⏳
 * [Linux](https://www.linux.org/pages/download/) - Do It Yourself. 🐧
 

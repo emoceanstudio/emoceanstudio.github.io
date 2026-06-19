@@ -11,7 +11,7 @@ Hello, I'm Ezequiel, a solo developer here in Brazil. My goal is to create games
 ### 🛠️ Special Thanks (Tools I Use)
 I am deeply grateful to the entire open-source community. These are the tools I use to create my projects and in my day-to-day work...
 
-* [Godot Engine](https://godotengine.org/) - The heart of development. ⚙️
+* [Godot](https://godotengine.org/) - The heart of development. ⚙️
 * [Pixelorama](https://pixelorama.org/) - For beauty and creativity in pixel art. 🎨
 * [Blender](https://www.blender.org/) - For fantastic 3D creation. 🗿
 * [LMMS](https://lmms.io/) - A symphony orchestra in your computer. 🎼
@@ -21,7 +21,7 @@ I am deeply grateful to the entire open-source community. These are the tools I 
 * [LibreOffice](https://www.libreoffice.org/) - My daily office hero. 📝
 * [Scribus](https://www.scribus.net/) - For that professional magazine editor feel. 📰
 * [Firefox](https://www.firefox.com/) - Wait, isn't that a fox?! 🦊
-* [Git](https://git-scm.com/install/windows) & [Github](https://desktop.github.com/download/) - My personal time machine. ⏳
+* [Git](https://git-scm.com/install/windows) & [GitHub](https://desktop.github.com/download/) - My personal time machine. ⏳
 * [Linux](https://www.linux.org/pages/download/) - The ultimate Do-It-Yourself. 🐧
 
 Thank you to the developers behind these projects!

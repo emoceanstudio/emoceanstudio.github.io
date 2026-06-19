@@ -12,15 +12,15 @@ Hello, I'm Ezequiel, a solo developer here in Brazil. My goal is to create games
 I am deeply grateful to the entire open-source community. These are the tools I use to create my projects and in my day-to-day work...
 
 * [Godot Engine](https://godotengine.org/) - The heart of development. ⚙️
-* [Pixelorama](https://pixelorama.org/) - The beauty and creativity in pixel art. 🎨
-* [Blender](https://www.blender.org/) - Fantastic 3D modeling. 📐
-* [LMMS](https://lmms.io/) - The symphony orchestra. 🎼
-* [Audacity](https://www.audacityteam.org/) - The surgeon of sound effects. ✂️
+* [Pixelorama](https://pixelorama.org/) - For beauty and creativity in pixel art. 🎨
+* [Blender](https://www.blender.org/) - For fantastic 3D creation. 🗿
+* [LMMS](https://lmms.io/) - A symphony orchestra in your computer. 🎼
+* [Audacity](https://www.audacityteam.org/) - Surgical precision for audio editing. ✂️
 * [Kdenlive](https://kdenlive.org/)  [VLC](https://www.videolan.org/)  [OBS](https://obsproject.com/) - The holy trinity of audiovisual media. 🎬
-* [7-Zip](https://www.7-zip.org/download.html) - Opening all those .zip and .rar packages. 📦
-* [Scribus](https://www.scribus.net/) - Feeling like a professional magazine editor. 📝
+* [7-Zip](https://www.7-zip.org/download.html) - Unpack any file instantly. 📦
+* [Scribus](https://www.scribus.net/) - For that professional magazine editor feel. 📰
 * [Firefox](https://www.firefox.com/) - Wait, isn't that a fox?! 🦊
 * [Git](https://git-scm.com/install/windows) & [Github](https://desktop.github.com/download/) - My personal time machine. ⏳
-* [Linux](https://www.linux.org/pages/download/) - Do It Yourself. 🐧
+* [Linux](https://www.linux.org/pages/download/) - The ultimate Do-It-Yourself. 🐧
 
 Thank you to the developers behind these projects!

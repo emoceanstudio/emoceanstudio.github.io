@@ -18,6 +18,7 @@ I am deeply grateful to the entire open-source community. These are the tools I 
 * [Audacity](https://www.audacityteam.org/) - Surgical precision for audio editing. ✂️
 * [Kdenlive](https://kdenlive.org/)  [VLC](https://www.videolan.org/)  [OBS](https://obsproject.com/) - The holy trinity of audiovisual media. 🎬
 * [7-Zip](https://www.7-zip.org/download.html) - Unpack any file instantly. 📦
+* [LibreOffice](https://www.libreoffice.org/) - My daily office hero. 📝
 * [Scribus](https://www.scribus.net/) - For that professional magazine editor feel. 📰
 * [Firefox](https://www.firefox.com/) - Wait, isn't that a fox?! 🦊
 * [Git](https://git-scm.com/install/windows) & [Github](https://desktop.github.com/download/) - My personal time machine. ⏳

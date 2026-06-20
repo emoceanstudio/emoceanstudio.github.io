@@ -16,7 +16,7 @@ I am deeply grateful to the entire open-source community. These are the tools I 
 * [Blender](https://www.blender.org/) - For fantastic 3D creation. 🗿
 * [LMMS](https://lmms.io/) - A symphony orchestra in your computer. 🎼
 * [Audacity](https://www.audacityteam.org/) - Surgical precision for audio editing. ✂️
-* [Kdenlive](https://kdenlive.org/) , [VLC](https://www.videolan.org/) & [OBS](https://obsproject.com/) - The holy trinity of audiovisual media. 🎬
+* [Kdenlive](https://kdenlive.org/) , [VLC](https://www.videolan.org/) & [OBS](https://obsproject.com/) - The holy media trinity. 🎬
 * [7-Zip](https://www.7-zip.org/download.html) - Unpack any file instantly. 📦
 * [Notepad++](https://notepad-plus-plus.org/) - Quick thoughts, clean code. 📄
 * [Syncthing](https://syncthing.net/) - Keeping my devices in perfect harmony. 🔄

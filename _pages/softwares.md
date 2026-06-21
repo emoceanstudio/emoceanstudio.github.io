@@ -1,8 +1,6 @@
 ---
 layout: single
-title: "Software"
-permalink: /software/
+title: "Softwares"
+permalink: /softwares/
 author_profile: true
 ---
-
-Software 

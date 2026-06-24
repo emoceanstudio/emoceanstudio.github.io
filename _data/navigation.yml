@@ -3,9 +3,10 @@ main:
     url: /
   - title: "Games"
     url: /games/
+   -title: "Softwares"
+    url: /softwares/
   - title: "Contact"
     url: /contact/
   - title: "About"
     url: /about/
-  - title: "Softwares"
-    url: /softwares/
+ 

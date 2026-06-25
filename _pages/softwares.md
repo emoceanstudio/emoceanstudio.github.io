@@ -1,7 +1,6 @@
 ---
-layout: splash
-title: "My Tools"
+layout: single
+title: "Softwares"
 permalink: /softwares/
-header: 
-  overlay_color: "#10022a" 
+author_profile: true
 ---

@@ -46,7 +46,7 @@ author:
   links:
     - label: "Steam"
       icon: "fab fa-fw fa-steam"
-      url: "https://steampowered.com"
+      url: ""
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://emoceanstudio.itch.io/"

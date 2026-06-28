@@ -15,6 +15,6 @@ For direct contact, please use the appropriate address below:
 
 ### 📢 Social Media
 These are the studio's only official social media accounts:
-*   [X (Twitter)](https://x.com/emoceanstudio) - For daily updates and devlogs.
-*   [YouTube](https://www.youtube.com/@emoceanstudio) - Trailers and news.
-*   [Bluesky](https://bsky.app/profile/emoceanstudio.github.io) - For arts in general.
+*   [X (Twitter)](https://x.com/emoceanstudio) - Updates and news.
+*   [YouTube](https://www.youtube.com/@emoceanstudio) - Official trailers.
+*   [Bluesky](https://bsky.app/profile/emoceanstudio.github.io) - Artwork and screenshots.

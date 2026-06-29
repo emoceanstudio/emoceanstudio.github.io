@@ -25,3 +25,4 @@ I am deeply grateful to the entire open-source community. These are the tools I 
 * [Linux](https://www.linux.org/pages/download/) - The ultimate Do-It-Yourself. 🐧
 
 Thank you to the developers behind these projects!
+

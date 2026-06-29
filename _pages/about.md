@@ -18,7 +18,6 @@ I am deeply grateful to the entire open-source community. These are the tools I 
 * [Audacity](https://www.audacityteam.org/) , [Kdenlive](https://kdenlive.org/) , [VLC](https://www.videolan.org/) & [OBS](https://obsproject.com/) - The ultimate media alliance. 🎬
 * [7-Zip](https://www.7-zip.org/download.html) - Unpack any file instantly. 📦
 * [Notepad++](https://notepad-plus-plus.org/) - Quick thoughts, clean code. 📄
-* [Syncthing](https://syncthing.net/) - Keeping my devices in perfect harmony. 🔄
 * [LibreOffice](https://www.libreoffice.org/) - My daily office hero. 📝
 * [Scribus](https://www.scribus.net/) - For that professional magazine editor feel. 📰
 * [Firefox](https://www.firefox.com/) - Wait, isn't that a fox?! 🦊

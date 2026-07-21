@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Games"
+    url: /games/
+  - title: "Devlogs"
+    url: /devlogs/
+  - title: "Contact"
+    url: /contact/
+  - title: "About"
+    url: /about/
+ 

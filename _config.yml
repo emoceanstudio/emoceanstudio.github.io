@@ -1,0 +1,75 @@
+title: Emocean Studio
+description: "Solo Game Dev: Ezequiel S.S."
+minimal_mistakes_skin: "aqua"
+favicon: "assets/images/favicons/favicon-96x96.png"
+locale: "en-US"
+search: false
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 3 # quantidade de posts por página
+paginate_path: /devlogs/page:num/ 
+timezone: America/Sao_Paulo
+
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Ezequiel S.S."
+  avatar : "assets/images/QuielDev.jpg"
+  bio    : "Solo Game Dev"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/QuielDev"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://www.reddit.com/user/QuielDev/"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/quieldev"
+
+defaults:
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true

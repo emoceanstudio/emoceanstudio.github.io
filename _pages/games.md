@@ -1,0 +1,18 @@
+---
+layout: splash
+title: "My Babies"
+permalink: /games/
+header:
+  overlay_color: "#10022a"
+
+my_games:
+  - image_path: "/assets/images/jogo1.jpg"
+    alt: "Nome do Jogo 1"
+    title: "Nome do Jogo 1"
+    excerpt: "Breve descrição do jogo 1."
+    url: "https://emoceanstudio.itch.io/" # Link principal
+    btn_label: "Play demo on Itch.io"
+    btn_class: "btn--primary"
+---
+
+{% include feature_row id="my_games" type="grid" columns=3 %}

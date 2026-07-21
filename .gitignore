@@ -1,0 +1,22 @@
+# Pasta gerada pelo Jekyll ao compilar o site localmente
+_site/
+
+# Caches do compilador de estilos e do Jekyll
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bloqueia a instalação local de pacotes de Ruby
+.bundle/
+vendor/
+Gemfile.lock
+
+# Arquivos invisíveis do sistema operacional e gerenciadores
+.DS_Store
+Thumbs.db
+.directory
+.Trash-*/
+
+# Arquivos temporários e de projeto do Geany
+*.geany
+*~

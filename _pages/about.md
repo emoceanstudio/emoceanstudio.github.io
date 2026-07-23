@@ -16,6 +16,7 @@ I am deeply grateful to the entire open-source community. These are the tools th
 * [Godot](https://godotengine.org/) - The heart of development. ⚙️
 * [Pixelorama](https://pixelorama.org/) - For beauty and creativity in pixel art. 🎨
 * [Blender](https://www.blender.org/) - For fantastic 3D creation and low-poly pixel art. 🗿
+* [GIMP](https://www.gimp.org/) - The ultimate multi-tool for image processing and technical textures. 🔧
 
 ### 🎬 Audio & Video
 * [LMMS](https://lmms.io/) - A symphony orchestra in your computer. 🎼
